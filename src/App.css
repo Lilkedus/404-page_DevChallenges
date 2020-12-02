@@ -11,7 +11,7 @@ body, .App {
    justify-content: center;
    flex-direction: column;
    gap: 2rem;
-   overflow: hidden;
+   /* overflow: hidden; */
 }
 
 .App {
@@ -38,12 +38,13 @@ header h2 {
 }
 
 .hero-img {
-   max-width: 539.22px;
-   height: 447.43px;
+   max-width: 100%;
+   max-height: 447.43px;
 }
 
 .right-col {
    flex-basis: 50%;
+   flex-shrink: 1;
 }
 
 .right-col h1 {
@@ -83,3 +84,10 @@ footer h3 {
    font-weight: 600; 
    line-height: 17px;
 }
+
+@media screen and (max-width: 615px) {
+   header h2 {
+      text-align: center;
+   }
+}
+
