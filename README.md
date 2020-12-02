@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 page challenge}</h1>
+<h1 align="center">404 page challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -10,10 +10,6 @@
   <h3>
     <a href="https://{your-demo-link.your-domain}">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
@@ -63,5 +59,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/Lilkedus/)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@Lilkedus](https://github.com/Lilkedus/)
+- Instagram [@kxdus_](https://www.instagram.com/kxdus_/)
+- Twitter [@Lilkedus](https://{twitter.com/your-username})
