@@ -1,38 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600;700&family=Montserrat:wght@600&family=Space+Mono:wght@400;700&display=swap');
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Poppins", sans-serif;
+}
+
+body, .App {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   gap: 2rem;
+   overflow: hidden;
+}
+
 .App {
-  text-align: center;
+   margin: 0 124px;
+   padding: 1rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header h2 {
+   font-size: 24px;
+   text-transform: uppercase;
+   font-family: "Inconsolata";
+   font-weight: 700;
+   line-height: 25.18px;
+   letter-spacing: -8%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.container {
+   margin: 5rem 0;
+   display: flex;
+   justify-content: center;
+   gap: 5rem;
+   align-items: center;
+   flex-wrap: wrap;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.hero-img {
+   max-width: 539.22px;
+   height: 447.43px;
 }
 
-.App-link {
-  color: #61dafb;
+.right-col {
+   flex-basis: 50%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.right-col h1 {
+   font-size: 64px;
+   line-height: 94.78px;
+   font-family: "Space mono";
+   color: #333333;
+}
+
+.right-col p {
+   font-size: 24px;
+   font-family: "Space mono";
+   font-weight: 400;
+   line-height: 35.54px;
+   width: 381px;
+   margin: 3rem 0;
+   color: #4F4F4F;
+}
+
+.right-col button {
+   width: 216px;
+   height: 68px;
+   font-family: "Space mono";
+   background: #333333;
+   color: white;
+   cursor: pointer;
+}
+
+footer {
+   text-align: center;
+   margin-top: -1rem;
+}
+
+footer h3 {
+   font-size: 14px;
+   font-family: "Montserrat", sans-serif;
+   font-weight: 600; 
+   line-height: 17px;
 }
