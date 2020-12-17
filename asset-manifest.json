@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/404-page_DevChallenges/static/css/main.b66aa774.chunk.css",
+    "main.js": "/404-page_DevChallenges/static/js/main.f516531a.chunk.js",
+    "main.js.map": "/404-page_DevChallenges/static/js/main.f516531a.chunk.js.map",
+    "runtime-main.js": "/404-page_DevChallenges/static/js/runtime-main.7298e0b7.js",
+    "runtime-main.js.map": "/404-page_DevChallenges/static/js/runtime-main.7298e0b7.js.map",
+    "static/js/2.c44e4be6.chunk.js": "/404-page_DevChallenges/static/js/2.c44e4be6.chunk.js",
+    "static/js/2.c44e4be6.chunk.js.map": "/404-page_DevChallenges/static/js/2.c44e4be6.chunk.js.map",
+    "index.html": "/404-page_DevChallenges/index.html",
+    "static/css/main.b66aa774.chunk.css.map": "/404-page_DevChallenges/static/css/main.b66aa774.chunk.css.map",
+    "static/js/2.c44e4be6.chunk.js.LICENSE.txt": "/404-page_DevChallenges/static/js/2.c44e4be6.chunk.js.LICENSE.txt",
+    "static/media/Scarecrow.63343086.png": "/404-page_DevChallenges/static/media/Scarecrow.63343086.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7298e0b7.js",
+    "static/js/2.c44e4be6.chunk.js",
+    "static/css/main.b66aa774.chunk.css",
+    "static/js/main.f516531a.chunk.js"
+  ]
+}
