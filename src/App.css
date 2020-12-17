@@ -1,93 +1,93 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600;700&family=Montserrat:wght@600&family=Space+Mono:wght@400;700&display=swap');
 * {
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
-   font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 
-body, .App {
-   display: flex;
-   justify-content: center;
-   flex-direction: column;
-   gap: 2rem;
-   /* overflow: hidden; */
+body,
+.App {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2rem;
+    /* overflow: hidden; */
 }
 
 .App {
-   margin: 0 124px;
-   padding: 1rem;
+    margin: 0 124px;
+    padding: 1rem;
 }
 
 header h2 {
-   font-size: 24px;
-   text-transform: uppercase;
-   font-family: "Inconsolata";
-   font-weight: 700;
-   line-height: 25.18px;
-   letter-spacing: -8%;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: "Inconsolata";
+    font-weight: 700;
+    line-height: 25.18px;
+    letter-spacing: -8%;
 }
 
 .container {
-   margin: 5rem 0;
-   display: flex;
-   justify-content: center;
-   gap: 5rem;
-   align-items: center;
-   flex-wrap: wrap;
+    margin: 5rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .hero-img {
-   max-width: 100%;
-   max-height: 447.43px;
+    max-width: 100%;
+    max-height: 447.43px;
 }
 
 .right-col {
-   flex-basis: 50%;
-   flex-shrink: 1;
+    flex-basis: 50%;
+    flex-shrink: 1;
 }
 
 .right-col h1 {
-   font-size: 64px;
-   line-height: 94.78px;
-   font-family: "Space mono";
-   color: #333333;
+    font-size: 64px;
+    line-height: 94.78px;
+    font-family: "Space mono";
+    color: #333333;
 }
 
 .right-col p {
-   font-size: 24px;
-   font-family: "Space mono";
-   font-weight: 400;
-   line-height: 35.54px;
-   width: 381px;
-   margin: 3rem 0;
-   color: #4F4F4F;
+    font-size: 24px;
+    font-family: "Space mono";
+    font-weight: 400;
+    line-height: 35.54px;
+    width: 381px;
+    margin: 3rem 0;
+    color: #4F4F4F;
 }
 
 .right-col button {
-   width: 216px;
-   height: 68px;
-   font-family: "Space mono";
-   background: #333333;
-   color: white;
-   cursor: pointer;
+    width: 216px;
+    height: 68px;
+    font-family: "Space mono";
+    background: #333333;
+    color: white;
+    cursor: pointer;
 }
 
 footer {
-   text-align: center;
-   margin-top: -1rem;
+    text-align: center;
+    margin-top: -1rem;
 }
 
 footer h3 {
-   font-size: 14px;
-   font-family: "Montserrat", sans-serif;
-   font-weight: 600; 
-   line-height: 17px;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    line-height: 17px;
 }
 
 @media screen and (max-width: 615px) {
-   header h2 {
-      text-align: center;
-   }
+    header h2 {
+        text-align: center;
+    }
 }
-
